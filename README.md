@@ -18,13 +18,8 @@ open 3 terminals:
 
 `$ python3 viewer.py`
 
-`$ python3 client.py`
+`$ python3 student.py`
 
-to play using the sample client make sure the client pygame hidden window has focus
-
-### Keys
-
-Directions: arrows
 
 ## Debug Installation
 
@@ -34,3 +29,8 @@ python -m pygame.examples.aliens
 
 # Tested on:
 - MacOS 15.0.1
+
+# Grades
+## 1ª Delivery: 18.4
+## 2º Delivery: 17.5
+
